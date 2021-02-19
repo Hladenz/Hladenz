@@ -5,7 +5,7 @@ most of my projects at the moments are old plugins from my server. I do plan to 
 <details>
    <summary>Links</summary> 
   <a href="https://twitch.tv/Hladenz">Twitch</a>
-  Discord:Hladenz#7209 ID(403093252825415690)
+  /nDiscord:Hladenz#7209 ID(403093252825415690)
 </details>
 
 <details>
