@@ -2,7 +2,7 @@
 Im a 16 year old software engineer Looking to learn new skils and lanaguages
 most of my projects at the moments are old plugins from my server. I do plan to add more to here as we go on
 
-<a href="https://twitch.tv/Hladenz" Twitch>
+<a href="https://twitch.tv/Hladenz">Twitch</a>
 
 <details>
   <summary>Github Stats Stats</summary> 
